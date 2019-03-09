@@ -8,11 +8,11 @@ Click the image for an old demo video on Youtube.
 
 ## TDFSB in the News
 
-* TDFSB was in the [Linux Journal, 2001](https://www.linuxjournal.com/article/5504)
-* TDFSB in [Linux User Magazine, 2007](https://www.linux-user.de/ausgabe/2007/02/042-3dbrowser/index.html)
-* TDFSB on [Linux Toy, 2007](https://linuxtoy.org/archives/tdfsb.html)
-* TDFSB in [Linux Magazine, issue 114, 2010](https://nnc3.com/mags/LM10/Magazine/Archive/2010/114/084-085_tdfsb/article.html)
-* TDFSB on [UnrealBlog, 2010](http://unrealstuff.bplaced.de/index.php?id=147)
-* TDFSB on [Silly Bytes, 2012](https://sillybytes.net/2012/04/navegando-en-3d-en-nuestros-directorios.html)
-* TDFSB on [La Vache Libre, 2013](https://la-vache-libre.org/tdfsb-un-petit-navigateur-de-fichiers-3d-rigolo/)
+* [Linux Journal, 2001](https://www.linuxjournal.com/article/5504)
+* [Linux User Magazine, 2007](https://www.linux-user.de/ausgabe/2007/02/042-3dbrowser/index.html)
+* [Linux Toy, 2007](https://linuxtoy.org/archives/tdfsb.html)
+* [Linux Magazine, issue 114, 2010](https://nnc3.com/mags/LM10/Magazine/Archive/2010/114/084-085_tdfsb/article.html)
+* [UnrealBlog, 2010](http://unrealstuff.bplaced.de/index.php?id=147)
+* [Silly Bytes, 2012](https://sillybytes.net/2012/04/navegando-en-3d-en-nuestros-directorios.html)
+* [La Vache Libre, 2013](https://la-vache-libre.org/tdfsb-un-petit-navigateur-de-fichiers-3d-rigolo/)
 
