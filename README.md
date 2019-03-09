@@ -9,6 +9,7 @@ TDFSB is quite old, so better try [3dfsb](https://github.com/3dfsb-dev/3dfsb) in
 
 * TDFSB was in the [Linux Journal, 2001](https://www.linuxjournal.com/article/5504)
 * TDFSB in [Linux User Magazine, 2007](https://www.linux-user.de/ausgabe/2007/02/042-3dbrowser/index.html)
-* TDFSB o [Linux Toy, 2007](https://linuxtoy.org/archives/tdfsb.html)
+* TDFSB on [Linux Toy, 2007](https://linuxtoy.org/archives/tdfsb.html)
+* TDFSB in [Linux Magazone, issue 114, 2010](https://nnc3.com/mags/LM10/Magazine/Archive/2010/114/084-085_tdfsb/article.html)
 * TDFSB on [UnrealBlog, 2010](http://unrealstuff.bplaced.de/index.php?id=147)
 * TDFSB on [Silly Bytes, 2012](https://sillybytes.net/2012/04/navegando-en-3d-en-nuestros-directorios.html)
